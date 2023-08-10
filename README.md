@@ -32,7 +32,7 @@ O projeto faz uso das seguintes tecnologias:
 
 1. Clone este repositório para o seu ambiente local.
 
-2. Configure as informações de conexão com o banco de dados no arquivo `db_connection.php`.
+2. Configure as informações de conexão com o banco de dados no arquivo `db_connect.php`.
 
 3. Importe o arquivo SQL fornecido (`crud.sql`) para criar a estrutura do banco de dados.
 
