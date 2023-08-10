@@ -34,7 +34,7 @@ O projeto faz uso das seguintes tecnologias:
 
 2. Configure as informações de conexão com o banco de dados no arquivo `db_connection.php`.
 
-3. Importe o arquivo SQL fornecido (`database.sql`) para criar a estrutura do banco de dados.
+3. Importe o arquivo SQL fornecido (`crud.sql`) para criar a estrutura do banco de dados.
 
 4. Execute o servidor PHP em sua máquina.
 
