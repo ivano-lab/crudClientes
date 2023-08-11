@@ -1,4 +1,11 @@
 <?php
+
+session_start();
+if(isset($_SESSION['mensagem'])):
+    echo $_SESSION['mensagem'];
+endif;
+session_unset();
+
 include_once 'includes/header.php';
 ?>
 
